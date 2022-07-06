@@ -27,6 +27,6 @@ Website shop bán quần áo,giày sử dụng  Laravel framework version 8.
 
 
 # Giao diện chính
-![image](https://user-images.githubusercontent.com/108797023/177527800-75c6effe-e1b7-4767-b907-3d6b96027d0d.png)
+![image](https://user-images.githubusercontent.com/108797023/177529493-b0346dc1-0c15-4d8f-9fb4-1ce92018452b.png)
 #Giao diện admin
 ![image](https://user-images.githubusercontent.com/108797023/177527894-0eb50cc9-e5b4-455e-b4b0-b50803a142aa.png)
