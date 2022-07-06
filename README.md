@@ -2,10 +2,10 @@
 Website shop bán quần áo,giày sử dụng  Laravel framework version 8.
 
 
-##Mô tả chức năng
-+Đăng nhập/đăng ký/đăng xuất
-+Thống kê đơn hàng, doanh số ,lợi nhuận.
-+Thống kê tổng số lượng,đơn hàng,video,sản phẩm,đơn hàng
+### Mô tả chức năng
+- **Đăng nhập/đăng ký/đăng xuất**
+- **Thống kê đơn hàng, doanh số ,lợi nhuận.**
+- **Thống kê tổng số lượng,đơn hàng,video,sản phẩm,đơn hàng**
 +Liệt kê các sản phẩm được xem nhiều dựa theo lượt views
 +Thêm,xóa,sửa và hiển thị slider lên trang web
 +Mua hàng,cập nhật số lượng
@@ -23,21 +23,7 @@ Website shop bán quần áo,giày sử dụng  Laravel framework version 8.
 +Tìm kiếm sản phẩm autocomplete
 +Lọc giá sản phẩm
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
 
 # Giao diện chính
