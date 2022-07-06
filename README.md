@@ -1,5 +1,7 @@
 # ShopLaravel
 Website shop bán quần áo,giày sử dụng  Laravel framework version 8.
+
+
 #Mô tả chức năng:
 +Đăng nhập/đăng ký/đăng xuất
 +Thống kê đơn hàng, doanh số ,lợi nhuận.
