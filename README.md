@@ -2,7 +2,7 @@
 Website shop bán quần áo,giày sử dụng  Laravel framework version 8.
 
 
-#Mô tả chức năng:
+##Mô tả chức năng
 +Đăng nhập/đăng ký/đăng xuất
 +Thống kê đơn hàng, doanh số ,lợi nhuận.
 +Thống kê tổng số lượng,đơn hàng,video,sản phẩm,đơn hàng
