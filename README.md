@@ -18,8 +18,13 @@ Website shop bán quần áo,giày sử dụng  Laravel framework version 8.
 - **Thêm xóa sửa,liệt kê hiển thị gallery cho hình ảnh sản phẩm**
 - **Thêm xóa sửa,liệt kê hiển thị video**
 - **Phân quyền user thêm xóa sửa**
+- **Hiển thị sản phẩm theo danh mục,theo thương hiệu**
+- **Show thông tin chi tiết sản phẩm**
+- **Thêm sản phẩm vào giỏ hàng,cập nhập số lượng sản phẩm trước khi đặt hàng**
+- **Thanh toán có chức năng chọn mã giảm giá,phí ship,thông tin vận chuyển**
 - **Khách hàng có thể thêm sản phẩm yêu thích**
 - **Khách hàng xem được chi tiết đơn hàng**
+- **Khách hàng xem được chi tiết lịch sử đơn hàng**
 - **Tìm kiếm sản phẩm autocomplete**
 - **Lọc giá sản phẩm**
 
