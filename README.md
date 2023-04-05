@@ -122,12 +122,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-Assuming you've already installed on your machine: PHP (>= 7.0.0), [Laravel](https://laravel.com), [Composer](https://getcomposer.org) and [Node.js](https://nodejs.org).
+
+
 
 ``` bash
 # install dependencies
+composer update
 composer install
 npm install
 
@@ -135,10 +136,7 @@ npm install
 cp .env.example .env
 php artisan key:generate
 
-# build CSS and JS assets
-npm run dev
-# or, if you prefer minified files
-npm run prod
+
 ```
 
 Then launch the server:
