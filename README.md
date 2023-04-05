@@ -108,24 +108,32 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 ### Prerequisites
-
 * npm
   ```sh
   npm install npm@latest -g
   ```
+
+  
+
+### Installation
+
 * XAMPP
   ```sh
   download :https://www.apachefriends.org/download.html
   ```
   
-  
-
-### Installation
 
 
 
 
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
 ``` bash
 # install dependencies
 composer update
@@ -145,16 +153,6 @@ Then launch the server:
 php artisan serve
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
