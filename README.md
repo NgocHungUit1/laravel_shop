@@ -84,9 +84,9 @@
 ## About The Project
 
 
-# Giao diện chính
+### Giao diện chính
 ![image](https://user-images.githubusercontent.com/108797023/177529493-b0346dc1-0c15-4d8f-9fb4-1ce92018452b.png)
-# Giao diện Admin
+### Giao diện Admin
 ![image](https://user-images.githubusercontent.com/108797023/177527894-0eb50cc9-e5b4-455e-b4b0-b50803a142aa.png)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
