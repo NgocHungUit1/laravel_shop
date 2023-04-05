@@ -115,7 +115,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
   ```
 * XAMPP
   ```sh
- (https://www.apachefriends.org/download.html)
+ https://www.apachefriends.org/download.html
   ```
   
   
